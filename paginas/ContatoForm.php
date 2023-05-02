@@ -1,5 +1,5 @@
 <?php 
-include './BD.class.php';
+include '../BD.class.php';
 $conn = new BD();
 
 if(!empty($_POST)){
